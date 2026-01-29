@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=butonplay
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ butonplay\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=butonplay()
+comment3.params=nextWorld
+comment3.target=butonplay(greenfoot.World)
+comment4.params=
+comment4.target=void\ verificaHover()
+comment5.params=
+comment5.target=void\ aplicaEfect()
+comment6.params=
+comment6.target=void\ touchButton()
+numComments=7
